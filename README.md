@@ -1,9 +1,10 @@
 # BV_Microbiome_Pilot_1
 This repository stores raw files from processed sequence data.
 
-Processed data:
+## Processed data:
+The following files are processed from Illumna MiSeq, and quality filtered by QIIME Pipeline. These files are in the form of tab delimetted ```.txt``` format.
+1. otu table
+2. taxonomy table
+3. metadata
 
-1. QIIME Analyzed
-2. otu table
-3. taxonomy table
-4. metadata
+## Install Dependencies:
